@@ -1,4 +1,4 @@
-var vicuna = {
+var lasvicuna = {
 "type": "FeatureCollection",
 "name": "lasvicuna",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
